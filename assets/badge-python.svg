@@ -4,7 +4,6 @@
   <g clip-path="url(#r)">
     <rect width="64" height="28" fill="#555555"/>
     <rect x="64" width="47" height="28" fill="#3776AB"/>
-    <rect width="111" height="28" fill="url(#s)" opacity="0.06"/>
   </g>
   <g font-family="Verdana, DejaVu Sans, Geneva, sans-serif" font-size="11" fill="#fff" text-anchor="middle">
     <text x="31.8" y="18.5">python</text>
