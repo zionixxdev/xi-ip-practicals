@@ -18,6 +18,13 @@
     <circle cx="150" cy="300" r="120"/>
   </g>
   <rect x="60" y="46" width="70" height="4" fill="#7FB2E5"/>
+  <g font-family="Courier New, Courier, monospace" font-size="15" fill="#A8C0DE" opacity="0.75" text-anchor="end">
+    <text x="1140" y="120">&gt;&gt;&gt; print("Hello, World!")</text>
+    <text x="1140" y="142" fill="#7FB2E5">Hello, World!</text>
+    <text x="1140" y="176">&gt;&gt;&gt; 17 + 6</text>
+    <text x="1140" y="198" fill="#7FB2E5">23</text>
+  </g>
+
 
   <text x="60" y="100" font-family="Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#9DB6D8">INFORMATICS PRACTICES &#183; CODE 065</text>
   <text x="60" y="168" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF">Class XI Practical File</text>
