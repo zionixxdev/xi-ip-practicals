@@ -4,16 +4,29 @@
 
 <br/><br/>
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1
-[![Practicals](https://img.shields.io/badge/Practicals-23-1F3864
-[![Pages](https://img.shields.io/badge/PDF-10_pages-C0392B
+<a href="IP_Practical_File_Class_11_Aditya_Shakya.pdf"><img src="assets/badge-pdf.svg" alt="PDF - 10 pages" height="28"></a>
+&nbsp;
+<a href="https://www.python.org/"><img src="assets/badge-python.svg" alt="Python 3.12" height="28"></a>
+&nbsp;
+<a href="https://www.mysql.com/"><img src="assets/badge-mysql.svg" alt="MySQL 8.0" height="28"></a>
+&nbsp;
+<img src="assets/badge-practicals.svg" alt="23 practicals" height="28">
 
-**Aditya Shakya** &nbsp;&middot;&nbsp; Class XI - A &nbsp;&middot;&nbsp; Roll No. 2
-**Ridhima World School** &nbsp;&middot;&nbsp; Session 2026 - 2027
-*Submitted to **Mr. Arya Sir**, Department of Computer Science*
+<br/><br/>
 
-[**Open the practical file (PDF)**](IP_Practical_File_Class_11_Aditya_Shakya.pdf) &nbsp;|&nbsp; [Python](#part-a--python-programming) &nbsp;|&nbsp; [SQL](#part-b--sql) &nbsp;|&nbsp; [All outputs](PRACTICALS.md)
+<strong>Aditya Shakya</strong> &nbsp;&middot;&nbsp; Class XI - A &nbsp;&middot;&nbsp; Roll No. 2<br/>
+<strong>Ridhima World School</strong> &nbsp;&middot;&nbsp; Session 2026 - 2027<br/>
+<em>Submitted to <strong>Mr. Arya Sir</strong>, Department of Computer Science</em>
+
+<br/><br/>
+
+<a href="IP_Practical_File_Class_11_Aditya_Shakya.pdf"><strong>Open the practical file (PDF)</strong></a>
+&nbsp;|&nbsp;
+<a href="#part-a--python-programming">Python</a>
+&nbsp;|&nbsp;
+<a href="#part-b--sql">SQL</a>
+&nbsp;|&nbsp;
+<a href="PRACTICALS.md">All outputs</a>
 
 </div>
 
@@ -104,7 +117,8 @@ xi-ip-practicals/
 ├── IP_Practical_File_Class_11_Aditya_Shakya.pdf   the printable 10-page file
 ├── PRACTICALS.md                                  every program with its output
 ├── assets/
-│   └── banner.svg
+│   ├── banner.svg
+│   └── badge-*.svg
 ├── python/
 │   ├── 01_interactive_mode.txt
 │   ├── 02_script_mode.py
@@ -128,8 +142,10 @@ and conclusions, is in the [PDF](IP_Practical_File_Class_11_Aditya_Shakya.pdf).
 
 <div align="center">
 
-**Made for the session 2026 - 2027**
+<strong>Made for the session 2026 - 2027</strong>
 
-[![GitHub](https://img.shields.io/badge/github-zionixxdev-181717
+<br/><br/>
+
+<a href="https://github.com/zionixxdev"><img src="assets/badge-github.svg" alt="github: zionixxdev" height="28"></a>
 
 </div>
