@@ -1,16 +1,16 @@
 <div align="center">
 
-# Informatics Practices (065)
+<img src="assets/banner.svg" alt="Informatics Practices (065) - Class XI Practical File" width="100%">
 
-### Class XI Practical File &nbsp;·&nbsp; 17 Python Programs &nbsp;·&nbsp; 6 SQL Commands
+<br/><br/>
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1
 [![Practicals](https://img.shields.io/badge/Practicals-23-1F3864
 [![Pages](https://img.shields.io/badge/PDF-10_pages-C0392B
 
-**Aditya Shakya** &nbsp;·&nbsp; Class XI - A &nbsp;·&nbsp; Roll No. 2
-**Ridhima World School** &nbsp;·&nbsp; Session 2026 - 2027
+**Aditya Shakya** &nbsp;&middot;&nbsp; Class XI - A &nbsp;&middot;&nbsp; Roll No. 2
+**Ridhima World School** &nbsp;&middot;&nbsp; Session 2026 - 2027
 *Submitted to **Mr. Arya Sir**, Department of Computer Science*
 
 [**Open the practical file (PDF)**](IP_Practical_File_Class_11_Aditya_Shakya.pdf) &nbsp;|&nbsp; [Python](#part-a--python-programming) &nbsp;|&nbsp; [SQL](#part-b--sql) &nbsp;|&nbsp; [All outputs](PRACTICALS.md)
@@ -37,33 +37,33 @@ and can actually be run.
 
 ## Contents
 
-### Part A · Python Programming
+### Part A &middot; Python Programming
 
 | No. | Practical | Source |
 |:---:|-----------|:------:|
-| | **Unit 1 · Introduction to Python & Basics** | |
+| | **Unit 1 &middot; Introduction to Python &amp; Basics** | |
 | `01` | Interactive Mode Execution | [`01_interactive_mode.txt`](python/01_interactive_mode.txt) |
 | `02` | Script Mode Execution | [`02_script_mode.py`](python/02_script_mode.py) |
 | `03` | Python Keywords and Identifiers | [`03_keywords_and_identifiers.py`](python/03_keywords_and_identifiers.py) |
 | `04` | Dynamic Typing and Variable Assignment | [`04_dynamic_typing.py`](python/04_dynamic_typing.py) |
-| | **Unit 2 · Data Handling & Operators** | |
+| | **Unit 2 &middot; Data Handling &amp; Operators** | |
 | `05` | Standard Data Types | [`05_data_types.py`](python/05_data_types.py) |
 | `06` | Input and Output Statements | [`06_input_and_output.py`](python/06_input_and_output.py) |
 | `07` | Explicit Type Conversion (Typecasting) | [`07_type_conversion.py`](python/07_type_conversion.py) |
 | `08` | Arithmetic Operators | [`08_arithmetic_operators.py`](python/08_arithmetic_operators.py) |
 | `09` | Relational and Logical Operators | [`09_relational_logical_operators.py`](python/09_relational_logical_operators.py) |
-| | **Unit 3 · Flow Control & Loops** | |
+| | **Unit 3 &middot; Flow Control &amp; Loops** | |
 | `10` | Conditional Constructs (if, if-else) | [`10_if_else.py`](python/10_if_else.py) |
 | `11` | Multi-way Conditional Branching (if-elif-else) | [`11_if_elif_else.py`](python/11_if_elif_else.py) |
 | `12` | The range() Function | [`12_range_function.py`](python/12_range_function.py) |
 | `13` | Iteration with for Loop | [`13_for_loop.py`](python/13_for_loop.py) |
 | `14` | Iteration with while Loop | [`14_while_loop.py`](python/14_while_loop.py) |
-| | **Unit 4 · Data Structures** | |
+| | **Unit 4 &middot; Data Structures** | |
 | `15` | String Operations and Index Slicing | [`15_string_operations.py`](python/15_string_operations.py) |
 | `16` | Lists Manipulation | [`16_lists.py`](python/16_lists.py) |
 | `17` | Dictionaries (Key-Value Mapping) | [`17_dictionaries.py`](python/17_dictionaries.py) |
 
-### Part B · SQL
+### Part B &middot; SQL
 
 | No. | Practical | Type | Source |
 |:---:|-----------|:----:|:------:|
@@ -103,6 +103,8 @@ A few programs read input from the keyboard; enter the values when prompted.
 xi-ip-practicals/
 ├── IP_Practical_File_Class_11_Aditya_Shakya.pdf   the printable 10-page file
 ├── PRACTICALS.md                                  every program with its output
+├── assets/
+│   └── banner.svg
 ├── python/
 │   ├── 01_interactive_mode.txt
 │   ├── 02_script_mode.py
