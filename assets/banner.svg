@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Informatics Practices 065 - Class XI Practical File">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101B33"/>
+      <stop offset="55%" stop-color="#1F3864"/>
+      <stop offset="100%" stop-color="#2E5A88"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7FB2E5"/>
+      <stop offset="100%" stop-color="#C9D5E8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g opacity="0.10" fill="none" stroke="#FFFFFF" stroke-width="1">
+    <circle cx="1080" cy="60" r="150"/>
+    <circle cx="1080" cy="60" r="110"/>
+    <circle cx="150" cy="300" r="120"/>
+  </g>
+  <rect x="60" y="46" width="70" height="4" fill="#7FB2E5"/>
+
+  <text x="60" y="100" font-family="Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#9DB6D8">INFORMATICS PRACTICES &#183; CODE 065</text>
+  <text x="60" y="168" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF">Class XI Practical File</text>
+  <text x="60" y="205" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#C9D5E8">17 Python programs &#183; 6 SQL commands &#183; all outputs verified by running them</text>
+
+  <g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF">
+    <rect x="60" y="235" width="150" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#7FB2E5" stroke-opacity="0.6"/>
+    <text x="135" y="257" text-anchor="middle">Python 3.12</text>
+    <rect x="222" y="235" width="132" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#7FB2E5" stroke-opacity="0.6"/>
+    <text x="288" y="257" text-anchor="middle">MySQL 8.0</text>
+    <rect x="366" y="235" width="152" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#7FB2E5" stroke-opacity="0.6"/>
+    <text x="442" y="257" text-anchor="middle">23 Practicals</text>
+  </g>
+
+  <text x="60" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#8FA6C6">Aditya Shakya &#183; Class XI - A &#183; Roll No. 2 &#183; Ridhima World School &#183; Session 2026 - 2027</text>
+  <rect x="60" y="272" width="1080" height="1" fill="url(#line)"/>
+</svg>
